@@ -1,4 +1,3 @@
-
 def sum(x):
     s=0
     while x>0:
